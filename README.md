@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/lab-devops-24/First%20Pipeline/_apis/build/status%2Fdarsay8.js-e2e-express-server?branchName=main)](https://dev.azure.com/lab-devops-24/First%20Pipeline/_build/latest?definitionId=1&branchName=main)
+
 ---
 page_type: sample
 languages:
